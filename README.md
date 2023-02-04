@@ -4,7 +4,7 @@
 This document provides a high level overview of NLP, it's use cases and my reason for interest in it. It also goes on to describe the three approaches to NLP ranging from the 1960s to 2010s.
 
 
-## Porfolio Assignment 1
+## [Porfolio Assignment 1](https://github.com/ashwin-som/NLP_Portfolio/blob/main/portfolio1/axs180183_portfolio1.py)
 - This program takes in an input csv file of the details of people, processes the details, and re-organizes it in the form of objects to be respresented clearly. 
 - To run this program, execute <code>python axs180183_portfolio1.py data/data.csv</code> in terminal for a Unix/Linux based system.
 - To run this program, execute <code>python axs180183_portfolio1.py data/data.csv</code> in powershell for a Windows based system.
