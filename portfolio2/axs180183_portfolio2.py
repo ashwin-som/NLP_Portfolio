@@ -30,7 +30,7 @@ def process_txt(filename):
     
     #This part create the pos-tagging for unique lemmas
     tags = nltk.pos_tag(unique_lemmas)
-    #print(tags[:20])
+    print(tags[:20])
 
     #This part extracts all the nouns from the pos tags
     nouns = []
