@@ -11,3 +11,10 @@ This document provides a high level overview of NLP, it's use cases and my reaso
 - Please ensure that you have the proper libraries downloaded such as re, sys, pickle. Also ensure that python works on your operating system. (data/ folder should be on the same level as the program file)
 - Python is generally a strong choice for text processing as it has many inbuilt methods for processing. libraries such as 're' are useful as well. One downside would be that it might be a little slower than other compiled languages for runtime but this is usually overcome by maintaining good coding style.
 - In this assignment, I was able to review and learn many concepts such as file IO, regex in python as well as certain inbuilt functions in python. Especially through regex, i learned some new ways of making more code more efficient for matching strings given in input to what I would require. 
+
+## [Porfolio Assignment 2](https://github.com/ashwin-som/NLP_Portfolio/blob/main/portfolio2/axs180183_portfolio2.py)
+- This program takes in an input txt file of a chapter in anatomy and performs some basic text processing operations on it. The latter half of the program also inlcudes a word guessing game built off of the most frequent nouns appearing from the text processed.
+- To run this program, execute <code>python axs180183_portfolio2.py anat19.txt</code> in terminal for a Unix/Linux based system.
+- To run this program, execute <code>python axs180183_portfolio1.py anat19.txt</code> in powershell for a Windows based system.
+- Please ensure that you have the proper libraries downloaded:these are included at the top of the axs180183_portfolio2.py. Also ensure that python works on your operating system. (data/ folder should be on the same level as the program file)
+
