@@ -16,7 +16,8 @@ def process_txt(filename):
     #This calculates the lexical diversity (# of unique words in the text w.r.t total words)
     tokens = word_tokenize(text_data)
     set_tokens = set(tokens)
-    print(f'Lexical Diversity: {len(set_tokens)/len(tokens)}')
+    l_d = len(set_tokens)/len(tokens)
+    print('Lexical Diversity: %.2f' % l_d)
 
     #this part takes care of tokenizing the text and pre processing it to include: only alpha, >5 length, no stopwords
     tokens_lower = [token.lower() for token in tokens]
