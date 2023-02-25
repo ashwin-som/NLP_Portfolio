@@ -18,3 +18,6 @@ This document provides a high level overview of NLP, it's use cases and my reaso
 - To run this program, execute <code>python axs180183_portfolio1.py anat19.txt</code> in powershell for a Windows based system.
 - Please ensure that you have the proper libraries downloaded:these are included at the top of the axs180183_portfolio2.py. Also ensure that python works on your operating system. (data/ folder should be on the same level as the program file)
 
+## [Porfolio Assignment 3](https://github.com/ashwin-som/NLP_Portfolio/blob/main/WordNetAssignment.pdf)
+- This python notebook explores all that WordNet and SentiWordNet have to offer, along with explorign some word similarity algorithms such as Wu-Palmer and Lesk.
+
