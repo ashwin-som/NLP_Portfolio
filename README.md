@@ -32,4 +32,10 @@ This document provides a high level overview of NLP, it's use cases and my reaso
 ## [Porfolio Assignment 5, Sentence Parsing](https://github.com/ashwin-som/NLP_Portfolio/blob/main/sentence_parsing.pdf)
 - This pdf document explores three different methods for sentence parsing, PSG parsing, dependency parsing, and SRL parsing.
 
+## [Porfolio Assignment 2](https://github.com/ashwin-som/NLP_Portfolio/blob/main/web_crawling/wc.py)
+- This program performs web crawling to obtain 15 urls, for which it scrapes data and then does some text processing. In particular, the program creates a knowledge base from 10 most frequent words occuring in the text data, this can be utilized as the first step to building a chatbot.
+- To run this program, execute <code>python wc.py</code> in terminal for a Unix/Linux based system.
+- To run this program, execute <code>python wc.py</code> in powershell for a Windows based system.
+- Please ensure that you have the proper libraries downloaded:these are included at the top of the wc.py. Also ensure that python works on your operating system. 
+
 
