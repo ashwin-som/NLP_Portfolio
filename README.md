@@ -21,3 +21,15 @@ This document provides a high level overview of NLP, it's use cases and my reaso
 ## [Porfolio Assignment 3](https://github.com/ashwin-som/NLP_Portfolio/blob/main/WordNetAssignment.pdf)
 - This python notebook explores all that WordNet and SentiWordNet have to offer, along with explorign some word similarity algorithms such as Wu-Palmer and Lesk.
 
+## [Porfolio Assignment 4](https://github.com/ashwin-som/NLP_Portfolio/tree/main/portfolio3)
+- This python program utilizes ngrams on 3 trxt files to create 3 language models. Using these language models, the program then attempts to classify sentences in a test file to a particular language based on laplacian smoothing probabilities of the bigrams and unigrams.
+- To run part1.py, execute <code>python part1.py data/LangId.train.English data/LangId.train.French data/LangId.train.Italian</code> in terminal for a Unix/Linux based system.
+- To run part1.py, execute <code>python part1.py data/LangId.train.English data/LangId.train.French data/LangId.train.Italian</code> in powershell for a Windows based system.
+- To run part2.py, execute <code>python part2.py data/LangId.test</code> in terminal for a Unix/Linux based system.
+- To run part2.py, execute <code>python part2.py data/LangId.test</code> in powershell for a Windows based system.
+- Please ensure that you have the proper libraries downloaded:these are included at the top of the part1.py and part2.py. Also ensure that python works on your operating system. (data/ folder should be on the same level as the program file)
+
+## [Porfolio Assignment 5, Sentence Parsing](https://github.com/ashwin-som/NLP_Portfolio/blob/main/sentence_parsing.pdf)
+- This pdf document explores three different methods for sentence parsing, PSG parsing, dependency parsing, and SRL parsing.
+
+
