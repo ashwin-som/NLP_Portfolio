@@ -45,5 +45,8 @@ This document provides a high level overview of NLP, it's use cases and my reaso
 ## [Porfolio Assignment 8, ACL paper summary](https://github.com/ashwin-som/NLP_Portfolio/blob/main/ACLPaperSummary.pdf)
 - This summary report contains the summary about a research paper regarding simulated bandit learning from user feedback for QA systems. 
 
+## [Porfolio Assignment 9, Chatbot](https://github.com/ashwin-som/NLP_Portfolio/tree/main/chatbot)
+- This is a chatbot built using numerous NLP techniques such as NER, POS tagging, Tf meaures, along with OPENAI's API to create a comprehensive chatbot about all thing related to Star Wars. 
 
 
+https://github.com/ashwin-som/NLP_Portfolio/tree/main/chatbot
