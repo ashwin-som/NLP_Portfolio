@@ -48,5 +48,6 @@ This document provides a high level overview of NLP, it's use cases and my reaso
 ## [Porfolio Assignment 9, Chatbot](https://github.com/ashwin-som/NLP_Portfolio/tree/main/chatbot)
 - This is a chatbot built using numerous NLP techniques such as NER, POS tagging, Tf meaures, along with OPENAI's API to create a comprehensive chatbot about all thing related to Star Wars. 
 
+## [Porfolio Assignment 7, Text Classification 2 with deep learning](https://github.com/ashwin-som/NLP_Portfolio/blob/main/text_classification_2.pdf)
+- This python notebook explores Text Classification utilizgin three deep learning models (Sequential: RNN, LSTM, and CNNs along with the effect of the different approaches of embedding. It consists of a comprehensive report on the performance analysis of each model and the tradeoffs.
 
-https://github.com/ashwin-som/NLP_Portfolio/tree/main/chatbot
