@@ -11,7 +11,7 @@ Hi! My name is Ashwin Somasundaram.  I am currently a senior studying CS at UT D
 - Time management skills developed through semester projects.
 - Acute Analytical thinking skills.
 
-#All my assignments/project from my NLP coursework
+# All my assignments/project from my NLP coursework
 
 ## [Overview of NLP](https://github.com/ashwin-som/NLP_Portfolio/blob/main/Overview_of_NLP.pdf)
 This document provides a high level overview of NLP, it's use cases and my reason for interest in it. It also goes on to describe the three approaches to NLP ranging from the 1960s to 2010s.
